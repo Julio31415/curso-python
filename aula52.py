@@ -1,5 +1,5 @@
 '''
-Tipo Tupla - Ima lista imutavel
+Tipo Tupla - uma lista imutavel
 '''
 nomes = 'Maria','Helena','Luiz'
 nomes = list(nomes)

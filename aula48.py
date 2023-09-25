@@ -1,8 +1,8 @@
 '''
 Listas em Python
 Tipo List - Mutável
-Supporta varios valores de qualquer tipo
-Conehecimentos reutilizaveis - indices e fatiamentos
+Suporta varios valores de qualquer tipo
+Conhecimentos reutilizaveis - indices e fatiamentos
 Metodos uteis:
 append, insert, pop, del, clear, extende + CRUD
 
